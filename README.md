@@ -1,10 +1,10 @@
 ## Hi there 👋
 # About Me:
-🔭 I’m currently working on: Advanced research in AI at the Sharif University of Technology. I'm also working on open-source AI projects that push the boundaries of what's possible.<br><be>
-👯 I’m looking to collaborate with: Researchers, developers, and companies interested in AI, especially in the areas of anomaly detection, medical imaging, and industrial applications.<br><be>
-🤝 I’m looking for help with: Expanding my network of AI professionals and contributing to innovative projects in AI and machine learning. I'm also open to mentorship opportunities and guidance on publishing my research.<br><be>
-🌱 I’m currently learning: New AI techniques and tools, with a special focus on deep learning, reinforcement learning, and their applications in real-world scenarios. I'm also exploring advancements in medical AI technologies.<br><be>
-💬 Ask me about: AI, anomaly detection, image processing, graph theory, and my journey through academia and industry. I'm also happy to share insights from my experience at Sharif University, Manopart, and NUS.<br><be>
+🔭 I’m working on Advanced AI research at the Sharif University of Technology. I'm also working on open-source AI projects that push the boundaries of what's possible.<br><be>
+👯 I’m looking to collaborate with: Researchers, developers, and companies interested in AI, especially in anomaly detection, medical imaging, and industrial applications.<br><be>
+🤝 I’m looking for help with Expanding my network of AI professionals and contributing to innovative projects in AI and machine learning. I'm also open to mentorship opportunities and guidance on publishing my research.<br><be>
+🌱 I’m currently learning New AI techniques and tools, with a special focus on deep learning and its real-world applications. I'm also exploring advancements in medical AI technologies.<br><be>
+💬 Ask me about AI, anomaly detection, image processing, graph theory, and my journey through academia and industry. I'm also happy to share insights from my experience at Sharif University, Manopart, and NUS.<br><be>
 ⚡ Fun fact: When I'm not delving into the world of AI, I enjoy exploring different cultures and cuisines, especially trying out new recipes in my kitchen. I believe that creativity in cooking often translates to creativity in problem-solving!
 
 
